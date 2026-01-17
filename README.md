@@ -6,4 +6,4 @@ Prueba caja negra
 Prueba de caja cerrada
 
 
-Prueba unitaria
+Prueba unitaria y abierta
